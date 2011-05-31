@@ -1,0 +1,4 @@
+#Source Dependencies
+#Tue May 31 22:30:59 CEST 2011
+src/main/scala/bootstrap/liftweb/Boot.scala=
+src/main/scala/my/snippet/Transform.scala=

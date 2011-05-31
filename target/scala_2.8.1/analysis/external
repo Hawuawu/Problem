@@ -1,0 +1,6 @@
+#External Dependencies
+#Tue May 31 22:30:59 CEST 2011
+/System/Library/Java/JavaVirtualMachines/1.6.0.jdk/Contents/Classes/classes.jar=src/main/scala/bootstrap/liftweb/Boot.scala\:src/main/scala/my/snippet/Transform.scala
+/Users/uc/repository/problem/project/boot/scala-2.8.1/lib/scala-library.jar=src/main/scala/bootstrap/liftweb/Boot.scala\:src/main/scala/my/snippet/Transform.scala
+/Users/uc/repository/problem/lib_managed/scala_2.8.1/compile/lift-util_2.8.1-2.3-RC3.jar=src/main/scala/bootstrap/liftweb/Boot.scala\:src/main/scala/my/snippet/Transform.scala
+/Users/uc/repository/problem/lib_managed/scala_2.8.1/compile/lift-webkit_2.8.1-2.3-RC3.jar=src/main/scala/bootstrap/liftweb/Boot.scala

@@ -1,0 +1,4 @@
+#Source Hashes
+#Tue May 31 22:30:59 CEST 2011
+src/main/scala/bootstrap/liftweb/Boot.scala=8bd2392ae288bd8a04ac85c4a4b2fba2d1129162
+src/main/scala/my/snippet/Transform.scala=64dae5664ea3f83057c13c1b51cce219ce83fb94

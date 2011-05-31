@@ -1,0 +1,4 @@
+#Generated Classes
+#Tue May 31 22:30:59 CEST 2011
+src/main/scala/bootstrap/liftweb/Boot.scala=target/scala_2.8.1/classes/bootstrap/liftweb/Boot.class\:target/scala_2.8.1/classes/bootstrap/liftweb/Boot$$anonfun$boot$1.class\:target/scala_2.8.1/classes/bootstrap/liftweb/Boot$$anonfun$1.class\:target/scala_2.8.1/classes/bootstrap/liftweb/Boot$$anonfun$boot$2.class
+src/main/scala/my/snippet/Transform.scala=target/scala_2.8.1/classes/my/snippet/Transform.class\:target/scala_2.8.1/classes/my/snippet/Transform$Projects$.class\:target/scala_2.8.1/classes/my/snippet/Transform$$anonfun$1.class\:target/scala_2.8.1/classes/my/snippet/Transform$$anonfun$render$1.class\:target/scala_2.8.1/classes/my/snippet/Transform$Projects.class
