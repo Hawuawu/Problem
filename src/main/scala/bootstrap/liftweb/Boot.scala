@@ -1,9 +1,8 @@
-
-
 package bootstrap.liftweb
 
 import net.liftweb._
-import http.{LiftRules, NotFoundAsTemplate, ParsePath}
+import http.{LiftRules, NotFoundAsTemplate, ParsePath, Req, XmlResponse}
+import http.rest.RestContinuation
 import sitemap.{SiteMap, Menu, Loc}
 import util.{ NamedPF }
 
@@ -29,6 +28,14 @@ class Boot {
     // set character encoding
     LiftRules.early.append(_.setCharacterEncoding("UTF-8"))
     
-    
+
+    LiftRules.dispatch.append{
+      case Req("test_cont" :: _,_,_) =>
+      RestContinuation.async {
+        satisfy => {
+          satisfy(XmlResponse(<tag>ok</tag>))
+        }
+      }
+    }
   }
 }
